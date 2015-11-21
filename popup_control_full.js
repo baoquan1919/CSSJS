@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='http://nhadatcanhoquan1.blogspot.com/' target='_blank'><img src='http://1.bp.blogspot.com/-BvJTHYyfqVc/Vk3aH1MBW3I/AAAAAAAAAdI/RIl_dUSuL68/s1600/MasteriThaodien.jpg' width='500px'/>Đào tạo seo chuyên sâu</a>. Học tại nhà Linh Nguyễn. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='http://nhadatcanhoquan1.blogspot.com/' target='_blank'><img src='http://1.bp.blogspot.com/-BvJTHYyfqVc/Vk3aH1MBW3I/AAAAAAAAAdI/RIl_dUSuL68/s1600/MasteriThaodien.jpg' width='500px'/>Tư Vấn Chuyên Nghiệp</a>. Mr.Kevin Hồ. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
